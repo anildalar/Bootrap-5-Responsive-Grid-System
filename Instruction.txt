@@ -18,14 +18,20 @@ Assignment
 xs 
 orange = 6
 blue   = 6
+done
+
 
 sm
 orange = 1
 blue   = 1
+done
+
 
 md
 orange = 10
 blue   = 2
+done
+
 
 lg
 orange = 8
@@ -33,7 +39,9 @@ blue   = 4
 
 xl
 orange = 4
-blue   =8
+blue   = 8
+done
+
 
 xxl
 orange = 3
